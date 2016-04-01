@@ -1,0 +1,23 @@
+\select@language {swedish}
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Rings and ideals}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Rings}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Ideals}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Factor rings and homomorphisms}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Prime and maximal ideals}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Monomial ideals}{8}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Sums and products of monomial ideals}{9}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Intersection of monomial ideals}{9}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Monomial orderings}{10}{subsection.2.5.3}
+\contentsline {chapter}{\numberline {3}Gr\IeC {\"o}bner bases}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Properties of Gr\IeC {\"o}bner bases}{15}{section.3.1}
+\contentsline {chapter}{\numberline {4}Algebraic coding theory}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Cyclic codes}{23}{section.4.1}
+\contentsline {section}{\numberline {4.2}Construction of reduced Gr\IeC {\"o}bner bases}{26}{section.4.2}
+\contentsline {section}{\numberline {4.3}Variants of Reed-M{\"u}ller codes}{26}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Encoding linear codes using Gr\IeC {\"o}bner bases}{26}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Variants of primitive Reed-M{\"u}ller codes}{28}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Linear codes of monomial ideals}{29}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Gr\IeC {\"o}bner basis of the ideal $I_{A,P}$}{29}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Reduced Gr\IeC {\"o}bner basis of $I_C$}{31}{subsection.4.4.2}
