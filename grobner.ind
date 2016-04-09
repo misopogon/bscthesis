@@ -51,7 +51,7 @@
   \indexspace
 
   \item Ideal, \hyperpage{5}
-    \subitem binomial, \hyperpage{29}
+    \subitem binomial, \hyperpage{28}
     \subitem generator of, \hyperpage{5}
     \subitem maximal, \hyperpage{7}
     \subitem monomial, \hyperpage{8}
@@ -59,12 +59,13 @@
     \subitem principal ideal, \hyperpage{5}
     \subitem radical ideal, \hyperpage{6}
     \subitem radical of, \hyperpage{6}
+    \subitem saturation of, \hyperpage{29}
   \item Integral domain, \hyperpage{3}
   \item Isomorphism, \hyperpage{6}
 
   \indexspace
 
-  \item lcd, \hyperindexformat{\see {Least commond multiple}}{16}
+  \item lcd, \hyperindexformat{\see {Least common multiple}}{16}
   \item Leading coefficient, \hyperpage{11}
   \item Leading monomial, \hyperpage{11}
   \item Leading term, \hyperpage{11}
