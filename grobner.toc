@@ -16,7 +16,7 @@
 \contentsline {section}{\numberline {4.1}Cyclic codes}{23}{section.4.1}
 \contentsline {section}{\numberline {4.2}Construction of reduced Gr\IeC {\"o}bner bases}{26}{section.4.2}
 \contentsline {section}{\numberline {4.3}Variants of Reed-M{\"u}ller codes}{26}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Encoding linear codes using Gr\IeC {\"o}bner bases}{26}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.1}Encoding linear codes using Gr\IeC {\"o}bner bases}{27}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Variants of primitive Reed-M{\"u}ller codes}{28}{subsection.4.3.2}
 \contentsline {section}{\numberline {4.4}Linear codes of monomial ideals}{29}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Gr\IeC {\"o}bner basis of the ideal $I_{A,P}$}{29}{subsection.4.4.1}
